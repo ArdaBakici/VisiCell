@@ -22,5 +22,5 @@ VisiCell is an web and mobile application that automates counting of cells dyed 
 ## How to run VisiCell?
 1. Download ![VisiCell-Server](https://github.com/ArdaBakici/VisiCell-Server) and run it (Steps for setting up the server are given in ![VisiCell-Server](https://github.com/ArdaBakici/VisiCell-Server) repository)
 2. (Using from browser) Open your web browser and enter the server ip.
-2. (Using from mobile) Either download React Native app or Expo app from repositories (Steps for downloading apps are given in the repositories). From settings screen enter the server ip.
-3. Enjoy the happinies of counting cells from anywhere, instantly.
+2. (Using from mobile) Either download ![React Native app](https://github.com/ArdaBakici/VisiCell-Mobile) or ![Expo app](https://github.com/ArdaBakici/VisiCell-Expo) from repositories (Steps for downloading apps are given in the repositories). From settings screen enter the server ip.
+3. Enjoy the ease of counting cells from anywhere, instantly.
